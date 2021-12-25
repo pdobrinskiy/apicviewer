@@ -1,0 +1,8 @@
+Flask
+requests
+pandas
+prettyprinter
+tabulate
+rest.connector
+pyats[full]
+N2G
